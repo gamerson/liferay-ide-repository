@@ -2,7 +2,7 @@
 <?compositeArtifactRepository version='1.0.0'?>
 <repository name='&quot;Liferay IDE Composite Update Site&quot;' type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
 	<properties size='1'>
-		<property name='p2.timestamp' value='1359991232'/>
+		<property name='p2.timestamp' value='1359991233'/>
 	</properties>
 	<children size='4'>
 		<child location='http://vm-32.liferay.com/liferay-ide-target/repository/'/>
